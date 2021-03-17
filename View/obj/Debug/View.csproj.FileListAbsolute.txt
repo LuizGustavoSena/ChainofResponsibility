@@ -1,0 +1,10 @@
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\View\View\bin\Debug\View.exe.config
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\View\View\bin\Debug\View.exe
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\View\View\bin\Debug\View.pdb
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\View\View\bin\Debug\ChainofResponsibility.dll
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\View\View\bin\Debug\ChainofResponsibility.pdb
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\View\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\View\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\View\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\View\View\obj\Debug\View.exe
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\View\View\obj\Debug\View.pdb
